@@ -31,17 +31,17 @@ To apply deep learning skills learned as part of Udacity Machine Learning Nanode
 <h2 id="head3"> Instructions </h2>
 1. Specify the path for training, validation and test image folders. In each of the training, validation and test folders - the images must be in sub-folders named by the breed. Specify path for extracted features for pre-trained models you want to use for transfer learning.
 
-2. Skip steps 2 and 3 if not interested in:
-i. Experiencing how transfer leaning expediates the process
-ii. How different pre-trained models perform corparatively
+2. Run cells under Step 2 and 3 only if interested in: (i) Experiencing how transfer leaning expediates the process (ii) How different pre-trained models perform corparatively
 
 3. Run cells under step 4 and 5 to see results of CNN model.
 
 <h2 id="head4"> Summary of the results </h2>
 For test images, if a dog is detected in the image - the ouput is the predicted dog breed.
+
 ![dog_classification](screen_shots/dog_classification.png)
 
 If a human face is detected then the closest dog breed is predicted.
+
 ![human_classification](screen_shots/human_closest_dog_breed_classification.png)
 
 <h2 id="head5"> Acknowledgements </h2>
