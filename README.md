@@ -29,6 +29,7 @@ Predict breed of a dog from image using Convolutional Neural Network (CNN)
 To apply deep learning skills learned as part of Udacity Machine Learning Nanodegree lesson to identify breed of a dog from image.
 
 <h2 id="head3"> Instructions </h2>
+
 1. Specify the path for training, validation and test image folders. In each of the training, validation and test folders - the images must be in sub-folders named by the breed. Specify path for extracted features for pre-trained models you want to use for transfer learning.
 
 2. Run cells under Step 2 and 3 only if interested in: (i) Experiencing how transfer leaning expediates the process (ii) How different pre-trained models perform corparatively
