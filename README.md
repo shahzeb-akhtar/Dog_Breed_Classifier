@@ -46,7 +46,9 @@ If a human face is detected then the closest dog breed is predicted.
 ![human_classification](screen_shots/human_closest_dog_breed_classification.png)
 
 <h2 id="head5"> Acknowledgements </h2>
+
 - [Udacity](https://www.udacity.com/)
 
 <h2 id="head7"> Author </h2>
+
 [Shahzeb Akhtar](https://www.linkedin.com/in/shahzebakhtar/)
